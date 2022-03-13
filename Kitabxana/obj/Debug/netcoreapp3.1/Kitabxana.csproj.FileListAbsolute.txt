@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\bin\Debug\netcoreapp3.1\Kitabxana.exe
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\bin\Debug\netcoreapp3.1\Kitabxana.deps.json
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\bin\Debug\netcoreapp3.1\Kitabxana.runtimeconfig.json
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\bin\Debug\netcoreapp3.1\Kitabxana.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\bin\Debug\netcoreapp3.1\Kitabxana.dll
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\bin\Debug\netcoreapp3.1\Kitabxana.pdb
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\obj\Debug\netcoreapp3.1\Kitabxana.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\obj\Debug\netcoreapp3.1\Kitabxana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\obj\Debug\netcoreapp3.1\Kitabxana.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\obj\Debug\netcoreapp3.1\Kitabxana.AssemblyInfo.cs
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\obj\Debug\netcoreapp3.1\Kitabxana.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\obj\Debug\netcoreapp3.1\Kitabxana.dll
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\obj\Debug\netcoreapp3.1\Kitabxana.pdb
+C:\Users\Hp\source\repos\Kitabxana\Kitabxana\obj\Debug\netcoreapp3.1\Kitabxana.genruntimeconfig.cache
